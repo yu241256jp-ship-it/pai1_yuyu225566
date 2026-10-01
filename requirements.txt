@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+torch
+numpy
+opencv-python-headless
+# cv_bridge は ROS の環境で提供されるため通常 pip では入れない
